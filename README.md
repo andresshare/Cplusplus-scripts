@@ -1,5 +1,5 @@
 # Cplusplus-scripts
-![N|Solid](https://www.canva.com/design/DACgLUJ5_lQ/-EA7j0-Ldt3Iop2ikXTX3A/view?utm_content=DACgLUJ5_lQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![N|Solid](https://theamericangenius.com/wp-content/uploads/2012/10/twitter-cover-photo-32.jpg)
 ----
 it's  just js to remember and study
 ----
