@@ -1,5 +1,5 @@
 # Cplusplus-scripts
-![N|Solid](https://www.canva.com/design/DACgLUJ5_lQ/share?role=EDITOR&token=jE9m3cxtLxbtpvE_6qfEZg&utm_content=DACgLUJ5_lQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+![N|Solid](https://www.canva.com/design/DACgLUJ5_lQ/-EA7j0-Ldt3Iop2ikXTX3A/view?utm_content=DACgLUJ5_lQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 ----
 it's  just js to remember and study
 ----
@@ -10,3 +10,4 @@ License
 ----
 ### MIT
 **Free Software, Hell Yeah!**
+Andresshare>>
